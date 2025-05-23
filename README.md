@@ -17,7 +17,7 @@ A simple web-based application that displays a random motivational quote each ti
 
 ## 📸 Demo
 
-🔗 Live Site: [https://yourusername.github.io/daily-quote-generator/](https://yourusername.github.io/daily-quote-generator/)
+🔗 Live Site:(https://github.com/30swetha/daily-quote-generator)
 
 ---
 
